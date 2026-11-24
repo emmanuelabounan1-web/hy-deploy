@@ -1,0 +1,9 @@
+{
+  "name": "Centre de Prière Jésus Mon Sauveur",
+  "short_name": "CEPJS",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#10253f",
+  "theme_color": "#10253f",
+  "lang": "fr"
+}
